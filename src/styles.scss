@@ -1,0 +1,24 @@
+$background-light: #ffffff;
+$ligh-grey-light: #656464;
+$content-white-light: #cecbcb;
+$description-box-light: #d9d8d8;
+$description-text-light: #5d5d5d;
+$dark-blue-light: #003a57;
+$dark-blue-hue: #003199;
+$border-grey-light: #e5e1e1;
+$active-grey-light: #eae8e8;
+$table-cell-hue: #928787;
+
+html,
+body {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  height: 100%;
+  background-color: $background-light;
+}
+
+* {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

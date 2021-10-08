@@ -1,0 +1,31 @@
+<section class="table">
+  <div class="table__header">
+    <div *ngFor="let column of columns; index as i" class="header-cell-{{ i }}">
+      {{ column }}
+    </div>
+  </div>
+  <div class="table_data">
+    <div *ngFor="
+        let column of domains | filter: (searchText$ | async);
+        index as idx
+      " class="data__row" [ngClass]="{ active: selected == idx }">
+      <div class="data__cell-date">{{ column.date }}</div>
+      <div class="data__cell-listname">{{ column.listName }}</div>
+      <div class="data__cell-entries">{{ column.entries }}</div>
+      <div class="data__cell-actions">
+        <span *ngIf="column.action.mail" class="data__action-email"><img src="../../assets/icons/email.svg"
+            alt="email" /></span>
+        <span *ngIf="column.action.share" class="data__action-share"><img src="../../assets/icons/share.svg"
+            alt="share" /></span>
+        <span *ngIf="column.action.edit" class="data__action-edit"><img src="../../assets/icons/edit.svg"
+            alt="edit" /></span>
+        <span *ngIf="column.action.delete" class="data__action-bin"><img src="../../assets/icons/bin.svg"
+            alt="bin" /></span>
+      </div>
+      <div (click)="sendDetails(column.details, idx)" class="data__cell-details"
+        [ngClass]="{ active: selected == idx }">
+        Details
+      </div>
+    </div>
+  </div>
+</section>

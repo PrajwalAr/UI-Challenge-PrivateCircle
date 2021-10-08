@@ -1,0 +1,8 @@
+<div class="data__add-description">
+  No description yet <span class="add__btn">+Add Description</span>
+</div>
+<div class="data__detail-list">
+  <div *ngFor="let data of detailsList$ | async" class="data__detail-row">
+    {{ data }}
+  </div>
+</div>

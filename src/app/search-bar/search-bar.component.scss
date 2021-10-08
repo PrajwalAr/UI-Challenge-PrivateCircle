@@ -1,0 +1,44 @@
+$search-border-light: #b4afaf;
+$saved-list-bg-color: #002b42;
+$header-white-light: #f5f5f5;
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem;
+  background-color: #f5f5f5;
+
+  & img {
+    height: 1rem;
+    width: 1rem;
+  }
+
+  & .btn {
+    border: 1px;
+    padding: 1rem 3rem;
+    cursor: pointer;
+
+    & .btn_label {
+      padding: 0.8rem;
+    }
+  }
+
+  & .saved_list {
+    border: 1px solid $saved-list-bg-color;
+    background-color: $saved-list-bg-color;
+    color: white;
+    border-radius: 6px;
+  }
+
+  & .search {
+    width: 50%;
+    border-radius: 6px;
+    border: 1px solid $search-border-light;
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  & .search:focus {
+    outline: none;
+  }
+}

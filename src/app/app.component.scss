@@ -1,0 +1,19 @@
+@import "../styles.scss";
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  & .searchbar {
+    width: 100%;
+  }
+
+  & .content {
+    border-right: 10px solid $content-white-light;
+    position: relative;
+    width: 75%;
+  }
+
+  & .detail {
+    width: 25%;
+    height: 100vh;
+  }
+}

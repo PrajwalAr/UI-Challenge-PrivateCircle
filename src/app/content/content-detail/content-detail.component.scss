@@ -1,0 +1,28 @@
+@import "../../../styles.scss";
+
+.data__add-description {
+  padding: 2rem 4rem;
+  margin: 2rem;
+  background-color: $description-box-light;
+  color: $description-text-light;
+  text-align: center;
+
+  .add__btn {
+    color: $dark-blue-light;
+    cursor: pointer;
+    font-weight: 700;
+    padding-left: 0.3rem;
+  }
+}
+
+.data__detail-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 60%;
+  padding-left: 4rem;
+
+  .data__detail-row {
+    color: $dark-blue-hue;
+  }
+}

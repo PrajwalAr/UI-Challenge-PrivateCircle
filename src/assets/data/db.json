@@ -1,0 +1,378 @@
+{
+  "vendorList": [
+    {
+      "id": 1,
+      "date": "June 23",
+      "listName": "Vendor-ic333",
+      "entries": 33,
+      "action": {
+        "mail": true,
+        "share": false,
+        "edit": false,
+        "delete": false
+      },
+      "details": []
+    },
+    {
+      "id": 2,
+      "date": "July 16",
+      "listName": "Radio-Vendor-icc4563",
+      "entries": 20,
+      "action": {
+        "mail": true,
+        "share": false,
+        "edit": false,
+        "delete": false
+      },
+      "details": [
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Jan 25",
+      "listName": "teskVendor-ic333566",
+      "entries": 8,
+      "action": {
+        "mail": true,
+        "share": false,
+        "edit": false,
+        "delete": false
+      },
+      "details": [
+        "Sangeetha Mobiles Private Limited",
+        "LendingKart Technologies Private Ltd",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 4,
+      "date": "May 03",
+      "listName": "fiwVendor-pd566223",
+      "entries": 23,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": false
+      },
+      "details": [
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 5,
+      "date": "June 19",
+      "listName": "TqustVendor-ic36633",
+      "entries": 45,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 6,
+      "date": "Jan 15",
+      "listName": "RastVendor-ic333-iiw66333",
+      "entries": 14,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": false
+      },
+      "details": [
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 7,
+      "date": "May 14",
+      "listName": "ThadwVendor-ic333-Jor122",
+      "entries": 43,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": false
+      },
+      "details": [
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd"
+      ]
+    },
+    {
+      "id": 8,
+      "date": "Aug 08",
+      "listName": "TsdmwlVendor-ic333-woo6",
+      "entries": 17,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": false
+      },
+      "details": [
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited."
+      ]
+    },
+    {
+      "id": 9,
+      "date": "Oct 13",
+      "listName": "QyetVendor-ic333-66116",
+      "entries": 32,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": false
+      },
+      "details": [
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 10,
+      "date": "June 15",
+      "listName": "TaskmVendor-iidnwin5566",
+      "entries": 55,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited."
+      ]
+    },
+    {
+      "id": 11,
+      "date": "June 25",
+      "listName": "nwjjjjVendor-ic333-dwmod",
+      "entries": 33,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 12,
+      "date": "April 23",
+      "listName": "Vendor-ic333",
+      "entries": 72,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 13,
+      "date": "Sept 13",
+      "listName": "JkkekeVendor-ic333-fefi2233",
+      "entries": 27,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    },
+    {
+      "id": 14,
+      "date": "April 28",
+      "listName": "Vendor-ic333-2232",
+      "entries": 44,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "Hector Beverages private limited",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited"
+      ]
+    },
+    {
+      "id": 15,
+      "date": "Feb 16",
+      "listName": "TestVendor-ic333",
+      "entries": 55,
+      "action": {
+        "mail": true,
+        "share": true,
+        "edit": true,
+        "delete": true
+      },
+      "details": [
+        "Rebel Foods Private Ltd(Faasos)",
+        "Puma Store Private Limited",
+        "Infosys Limited",
+        "Bundle Technologies Private Ltd (Swiggy)",
+        "Vodafone Idea Limited",
+        "Think & Learn Private Limited.",
+        "Sangeetha Mobiles Private Limited",
+        "ID Fresh Foods",
+        "WoW Momos Foods Private Limited",
+        "Gala Precision Engineering Private Ltd",
+        "LendingKart Technologies Private Ltd",
+        "Balaji Wafers Private Limited",
+        "Hector Beverages private limited"
+      ]
+    }
+  ]
+}
